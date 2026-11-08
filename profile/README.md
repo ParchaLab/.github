@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ParchaLab/.github/main/profile/assets/parcha-mark.png" width="72" height="72" alt="">
+
 # Parcha Lab
 
 An online studio for website design, SEO and marketing, primarily for Puerto Rico businesses. We work in English and Puerto Rican Spanish.
