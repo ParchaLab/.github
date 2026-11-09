@@ -10,6 +10,8 @@ An online studio for website design, SEO and marketing, primarily for Puerto Ric
 
 Selected public work: [Chencho Corleone](https://parchalab.com/work/chencho-corleone/) · [Casa Nakhla](https://parchalab.com/work/casa-nakhla/)
 
+For website owners: [Website maintenance checklist](https://parchalab.com/guides/website-maintenance-checklist/).
+
 ---
 
 Somos un estudio en línea de diseño web, SEO y marketing, principalmente para negocios en Puerto Rico. Trabajamos en inglés y español puertorriqueño.
@@ -19,5 +21,7 @@ Somos un estudio en línea de diseño web, SEO y marketing, principalmente para 
 **Property Desk** ofrece sitios web para propiedades individuales y espacios de trabajo para agentes y corredurías. [Conoce Property Desk](https://parchalab.com/es/property-desk/).
 
 Proyectos públicos seleccionados: [Chencho Corleone](https://parchalab.com/es/proyectos/chencho-corleone/) · [Casa Nakhla](https://parchalab.com/es/proyectos/casa-nakhla/)
+
+Para quienes administran una página web: [Lista de mantenimiento web](https://parchalab.com/es/guias/lista-mantenimiento-web/).
 
 [Instagram](https://www.instagram.com/parchalab/) · [Facebook](https://www.facebook.com/profile.php?id=61594157158598) · [hola@parchalab.com](mailto:hola@parchalab.com)
